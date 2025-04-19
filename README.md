@@ -1,4 +1,4 @@
-<h1 align="center">Oi! Eu sou a Nataly 👋</h1>
+<h1 align="center">Oi! Eu sou a Nataly </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Bem-vindo+à+minha+toca!+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -24,19 +24,6 @@
 - ✉️ Email: [natalyroch12013@gmail.com](mailto:natalyroch12013@gmail.com)  
 - 💼 LinkedIn: [Nataly Rocha](https://www.linkedin.com/in/nataly-rocha-11a3aa186/)  
 - 📸 Instagram: [@naahrochaaa_](https://www.instagram.com/naahrochaaa_/)
-
----
-
-### 📊 Meus stats por aqui:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalyrochaaa&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalyrochaaa&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=natalyrochaaa&theme=tokyonight&row=1&no-frame=true&no-bg=true" />
-</p>
 
 ---
 
