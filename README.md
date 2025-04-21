@@ -26,7 +26,7 @@
 
 ---
 
-### De algumas ferramentas, como:
+### Algumans ferramentas também, como:
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 
 ### E meus contatos são:
